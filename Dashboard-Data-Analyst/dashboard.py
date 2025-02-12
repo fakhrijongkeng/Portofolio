@@ -74,7 +74,7 @@ def create_rfm_seller_df(df):
 
     return rfm_seller_df
 
-all_df = pd.read_csv("olist_data.csv")
+all_df = pd.read_csv("https://raw.githubusercontent.com/fakhrijongkeng/Portofolio/refs/heads/main/Dashboard-Data-Analyst/Olist_data.csv")
 
 datetime_columns = ["order_purchase_timestamp"]
 all_df.sort_values(by="order_purchase_timestamp", inplace=True)
