@@ -88,7 +88,7 @@ max_date = all_df["order_purchase_timestamp"].max()
 
 with st.sidebar:
     
-    st.image("Olist logo.png")
+    st.image("https://github.com/fakhrijongkeng/Portofolio/blob/main/Dashboard-Data-Analyst/Olist%20logo.png")
 
     st.subheader("By : FAKHRIAKMAL")
     
