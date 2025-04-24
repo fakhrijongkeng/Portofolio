@@ -7,6 +7,7 @@ col1, col2 = st.columns(2)
 
 with col1:
     # st.image("images/photo.png",width=300)
+    st.empty()
 
 with col2:
     st.title("Ryan O'Connor")
