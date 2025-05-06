@@ -1,8 +1,9 @@
 import streamlit as st
 
+st.title("FAKHRI AKMAL")
+
 col1, col2 = st.columns([1, 3])
  
-st.title("FAKHRI AKMAL")
 
 with col1:
     st.image("Streamlit-Personal-Web/images/photo-profile.png")
