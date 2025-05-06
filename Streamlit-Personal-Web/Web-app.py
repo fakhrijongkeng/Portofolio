@@ -5,7 +5,8 @@ col1, col2 = st.columns([1, 3])
 st.title("FAKHRI AKMAL")
 
 with col1:
-    st.image("Streamlit-Personal-Web/images/photo-profile.png"
+    st.image("Streamlit-Personal-Web/images/photo-profile.png")
+ 
 with col2:
     st.write("This is my personal web app")
 
