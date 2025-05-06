@@ -5,7 +5,7 @@ col1, col2 = st.columns([1, 3])
 st.title("FAKHRI AKMAL")
 
 with col1:
-    st.image("https://github.com/fakhrijongkeng/Portofolio/blob/main/Dashboard-Data-Analyst/Olist%20logo.png")
+    st.image("https://github.com/fakhrijongkeng/Portofolio/blob/main/Dashboard-Data-Analyst/Olist%20logo.jpg")
     
 with col2:
     st.write("This is my personal web app")
